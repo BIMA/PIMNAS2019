@@ -1,0 +1,20 @@
+0 - ga da kelas
+1 - banteng
+2 - Gadjah
+3 - Singa
+4 - Kudanil
+5 - Bangau
+6 - Rusa
+7 - Jerapah
+8 - Zebra
+9 - cheetah
+10 - burung
+11 - kukang
+12 - kambing
+
+
+frame203 = 2
+frame146 = 4
+frame296 = 7
+frame345-346 hapus
+689-693 hapus	
